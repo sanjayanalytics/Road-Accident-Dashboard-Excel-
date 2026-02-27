@@ -1,5 +1,3 @@
----
-
 # 🚦 Road Accident Analysis Dashboard (Excel)
 
 ## 📌 Project Overview
@@ -163,18 +161,3 @@ If you found this project helpful or insightful, feel free to ⭐ star the repos
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Just tell me which one you need next 🚀
