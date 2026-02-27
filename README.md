@@ -144,7 +144,7 @@ This dashboard helps:
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="https://github.com/sanjayanalytics/Swiggy-Instamart-Sales-Dashboard-Power-BI-Project-/blob/d35825432bf0e3d48e070ea0defa4d54131b34cf/Swiggy%20Instamart%20Dashboard%20Power%20BI%20Project.png" width="900">
+  <img src="https://github.com/sanjayanalytics/Road-Accident-Dashboard-Excel-/blob/bde10c71787d4b9b45cfb2e58031c871664d6354/Road%20Accident%20Dashboard.png" width="900">
 </p>
 
 
